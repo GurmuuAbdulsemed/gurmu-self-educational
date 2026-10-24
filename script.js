@@ -1,4 +1,4 @@
-
+<script src="script.js"></script>
 const grade = document.getElementById("grade");
 
 if (grade) {
